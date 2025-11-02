@@ -83,18 +83,18 @@
     {
       "filename": "words_011.json",
       "word_count": 1000,
-      "status": "pending",
-      "completed_words": 0,
-      "failed_words": 0,
-      "last_updated": null
+      "status": "completed",
+      "completed_words": 980,
+      "failed_words": 10,
+      "last_updated": "2025-11-02 23:23:01"
     },
     {
       "filename": "words_012.json",
       "word_count": 1000,
-      "status": "pending",
-      "completed_words": 0,
-      "failed_words": 0,
-      "last_updated": null
+      "status": "completed",
+      "completed_words": 973,
+      "failed_words": 8,
+      "last_updated": "2025-11-02 23:47:44"
     },
     {
       "filename": "words_013.json",
@@ -207,14 +207,16 @@
     "words_007.json",
     "words_008.json",
     "words_009.json",
-    "words_010.json"
+    "words_010.json",
+    "words_011.json",
+    "words_012.json"
   ],
   "statistics": {
     "total_files": 25,
-    "completed_files": 6,
+    "completed_files": 8,
     "total_words": 23887,
-    "downloaded_audios": 12770,
-    "failed_downloads": 90,
-    "skipped_phrases": 310
+    "downloaded_audios": 16676,
+    "failed_downloads": 108,
+    "skipped_phrases": 339
   }
 }
