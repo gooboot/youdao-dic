@@ -1,0 +1,220 @@
+{
+  "files": [
+    {
+      "filename": "words_001.json",
+      "word_count": 1000,
+      "status": "processing",
+      "completed_words": 84,
+      "failed_words": 6,
+      "last_updated": "2025-11-02 00:52:43"
+    },
+    {
+      "filename": "words_002.json",
+      "word_count": 1000,
+      "status": "processing",
+      "completed_words": 428,
+      "failed_words": 22,
+      "last_updated": "2025-11-02 00:56:58"
+    },
+    {
+      "filename": "words_003.json",
+      "word_count": 1000,
+      "status": "processing",
+      "completed_words": 488,
+      "failed_words": 22,
+      "last_updated": "2025-11-02 01:09:34"
+    },
+    {
+      "filename": "words_004.json",
+      "word_count": 1000,
+      "status": "processing",
+      "completed_words": 382,
+      "failed_words": 7,
+      "last_updated": "2025-11-02 01:35:10"
+    },
+    {
+      "filename": "words_005.json",
+      "word_count": 1000,
+      "status": "processing",
+      "completed_words": 116,
+      "failed_words": 2,
+      "last_updated": "2025-11-02 20:13:52"
+    },
+    {
+      "filename": "words_006.json",
+      "word_count": 1000,
+      "status": "completed",
+      "completed_words": 964,
+      "failed_words": 6,
+      "last_updated": "2025-11-02 20:39:29"
+    },
+    {
+      "filename": "words_007.json",
+      "word_count": 1000,
+      "status": "completed",
+      "completed_words": 980,
+      "failed_words": 5,
+      "last_updated": "2025-11-02 21:09:34"
+    },
+    {
+      "filename": "words_008.json",
+      "word_count": 1000,
+      "status": "completed",
+      "completed_words": 982,
+      "failed_words": 8,
+      "last_updated": "2025-11-02 21:35:51"
+    },
+    {
+      "filename": "words_009.json",
+      "word_count": 1000,
+      "status": "completed",
+      "completed_words": 979,
+      "failed_words": 6,
+      "last_updated": "2025-11-02 22:18:15"
+    },
+    {
+      "filename": "words_010.json",
+      "word_count": 1000,
+      "status": "completed",
+      "completed_words": 977,
+      "failed_words": 6,
+      "last_updated": "2025-11-02 22:41:18"
+    },
+    {
+      "filename": "words_011.json",
+      "word_count": 1000,
+      "status": "pending",
+      "completed_words": 0,
+      "failed_words": 0,
+      "last_updated": null
+    },
+    {
+      "filename": "words_012.json",
+      "word_count": 1000,
+      "status": "pending",
+      "completed_words": 0,
+      "failed_words": 0,
+      "last_updated": null
+    },
+    {
+      "filename": "words_013.json",
+      "word_count": 1000,
+      "status": "pending",
+      "completed_words": 0,
+      "failed_words": 0,
+      "last_updated": null
+    },
+    {
+      "filename": "words_014.json",
+      "word_count": 1000,
+      "status": "pending",
+      "completed_words": 0,
+      "failed_words": 0,
+      "last_updated": null
+    },
+    {
+      "filename": "words_015.json",
+      "word_count": 1000,
+      "status": "pending",
+      "completed_words": 0,
+      "failed_words": 0,
+      "last_updated": null
+    },
+    {
+      "filename": "words_016.json",
+      "word_count": 1000,
+      "status": "pending",
+      "completed_words": 0,
+      "failed_words": 0,
+      "last_updated": null
+    },
+    {
+      "filename": "words_017.json",
+      "word_count": 1000,
+      "status": "pending",
+      "completed_words": 0,
+      "failed_words": 0,
+      "last_updated": null
+    },
+    {
+      "filename": "words_018.json",
+      "word_count": 1000,
+      "status": "pending",
+      "completed_words": 0,
+      "failed_words": 0,
+      "last_updated": null
+    },
+    {
+      "filename": "words_019.json",
+      "word_count": 1000,
+      "status": "pending",
+      "completed_words": 0,
+      "failed_words": 0,
+      "last_updated": null
+    },
+    {
+      "filename": "words_020.json",
+      "word_count": 1000,
+      "status": "pending",
+      "completed_words": 0,
+      "failed_words": 0,
+      "last_updated": null
+    },
+    {
+      "filename": "words_021.json",
+      "word_count": 1000,
+      "status": "pending",
+      "completed_words": 0,
+      "failed_words": 0,
+      "last_updated": null
+    },
+    {
+      "filename": "words_022.json",
+      "word_count": 1000,
+      "status": "pending",
+      "completed_words": 0,
+      "failed_words": 0,
+      "last_updated": null
+    },
+    {
+      "filename": "words_023.json",
+      "word_count": 1000,
+      "status": "pending",
+      "completed_words": 0,
+      "failed_words": 0,
+      "last_updated": null
+    },
+    {
+      "filename": "words_024.json",
+      "word_count": 882,
+      "status": "pending",
+      "completed_words": 0,
+      "failed_words": 0,
+      "last_updated": null
+    },
+    {
+      "filename": "test_words.json",
+      "word_count": 5,
+      "status": "completed",
+      "completed_words": 5,
+      "failed_words": 0,
+      "last_updated": "2025-11-02 00:42:15"
+    }
+  ],
+  "completed_files": [
+    "test_words.json",
+    "words_006.json",
+    "words_007.json",
+    "words_008.json",
+    "words_009.json",
+    "words_010.json"
+  ],
+  "statistics": {
+    "total_files": 25,
+    "completed_files": 6,
+    "total_words": 23887,
+    "downloaded_audios": 12770,
+    "failed_downloads": 90,
+    "skipped_phrases": 310
+  }
+}
