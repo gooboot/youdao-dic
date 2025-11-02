@@ -99,10 +99,10 @@
     {
       "filename": "words_013.json",
       "word_count": 1000,
-      "status": "pending",
-      "completed_words": 0,
-      "failed_words": 0,
-      "last_updated": null
+      "status": "completed",
+      "completed_words": 982,
+      "failed_words": 7,
+      "last_updated": "2025-11-03 00:31:15"
     },
     {
       "filename": "words_014.json",
@@ -209,14 +209,15 @@
     "words_009.json",
     "words_010.json",
     "words_011.json",
-    "words_012.json"
+    "words_012.json",
+    "words_013.json"
   ],
   "statistics": {
     "total_files": 25,
-    "completed_files": 8,
+    "completed_files": 9,
     "total_words": 23887,
-    "downloaded_audios": 16676,
-    "failed_downloads": 108,
-    "skipped_phrases": 339
+    "downloaded_audios": 18640,
+    "failed_downloads": 115,
+    "skipped_phrases": 350
   }
 }
