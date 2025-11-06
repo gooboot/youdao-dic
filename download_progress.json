@@ -107,90 +107,90 @@
     {
       "filename": "words_014.json",
       "word_count": 1000,
-      "status": "pending",
-      "completed_words": 0,
-      "failed_words": 0,
-      "last_updated": null
+      "status": "completed",
+      "completed_words": 969,
+      "failed_words": 13,
+      "last_updated": "2025-11-05 22:03:31"
     },
     {
       "filename": "words_015.json",
       "word_count": 1000,
-      "status": "pending",
-      "completed_words": 0,
-      "failed_words": 0,
-      "last_updated": null
+      "status": "completed",
+      "completed_words": 992,
+      "failed_words": 2,
+      "last_updated": "2025-11-05 23:06:19"
     },
     {
       "filename": "words_016.json",
       "word_count": 1000,
-      "status": "pending",
-      "completed_words": 0,
-      "failed_words": 0,
-      "last_updated": null
+      "status": "completed",
+      "completed_words": 992,
+      "failed_words": 5,
+      "last_updated": "2025-11-05 23:34:28"
     },
     {
       "filename": "words_017.json",
       "word_count": 1000,
-      "status": "pending",
-      "completed_words": 0,
-      "failed_words": 0,
-      "last_updated": null
+      "status": "completed",
+      "completed_words": 988,
+      "failed_words": 5,
+      "last_updated": "2025-11-06 19:11:20"
     },
     {
       "filename": "words_018.json",
       "word_count": 1000,
-      "status": "pending",
-      "completed_words": 0,
-      "failed_words": 0,
-      "last_updated": null
+      "status": "completed",
+      "completed_words": 989,
+      "failed_words": 7,
+      "last_updated": "2025-11-06 19:34:59"
     },
     {
       "filename": "words_019.json",
       "word_count": 1000,
-      "status": "pending",
-      "completed_words": 0,
-      "failed_words": 0,
-      "last_updated": null
+      "status": "completed",
+      "completed_words": 988,
+      "failed_words": 6,
+      "last_updated": "2025-11-06 20:24:39"
     },
     {
       "filename": "words_020.json",
       "word_count": 1000,
-      "status": "pending",
-      "completed_words": 0,
-      "failed_words": 0,
-      "last_updated": null
+      "status": "completed",
+      "completed_words": 983,
+      "failed_words": 13,
+      "last_updated": "2025-11-06 20:55:11"
     },
     {
       "filename": "words_021.json",
       "word_count": 1000,
-      "status": "pending",
-      "completed_words": 0,
-      "failed_words": 0,
-      "last_updated": null
+      "status": "completed",
+      "completed_words": 986,
+      "failed_words": 11,
+      "last_updated": "2025-11-06 22:28:11"
     },
     {
       "filename": "words_022.json",
       "word_count": 1000,
-      "status": "pending",
-      "completed_words": 0,
-      "failed_words": 0,
-      "last_updated": null
+      "status": "completed",
+      "completed_words": 980,
+      "failed_words": 15,
+      "last_updated": "2025-11-06 23:12:31"
     },
     {
       "filename": "words_023.json",
       "word_count": 1000,
-      "status": "pending",
-      "completed_words": 0,
-      "failed_words": 0,
-      "last_updated": null
+      "status": "completed",
+      "completed_words": 982,
+      "failed_words": 18,
+      "last_updated": "2025-11-07 00:05:18"
     },
     {
       "filename": "words_024.json",
       "word_count": 882,
-      "status": "pending",
-      "completed_words": 0,
-      "failed_words": 0,
-      "last_updated": null
+      "status": "completed",
+      "completed_words": 875,
+      "failed_words": 7,
+      "last_updated": "2025-11-07 00:33:16"
     },
     {
       "filename": "test_words.json",
@@ -210,14 +210,25 @@
     "words_010.json",
     "words_011.json",
     "words_012.json",
-    "words_013.json"
+    "words_013.json",
+    "words_014.json",
+    "words_015.json",
+    "words_016.json",
+    "words_017.json",
+    "words_018.json",
+    "words_019.json",
+    "words_020.json",
+    "words_021.json",
+    "words_022.json",
+    "words_023.json",
+    "words_024.json"
   ],
   "statistics": {
     "total_files": 25,
-    "completed_files": 9,
+    "completed_files": 20,
     "total_words": 23887,
-    "downloaded_audios": 18640,
-    "failed_downloads": 115,
-    "skipped_phrases": 350
+    "downloaded_audios": 40088,
+    "failed_downloads": 217,
+    "skipped_phrases": 406
   }
 }
